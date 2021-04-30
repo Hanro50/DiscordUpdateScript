@@ -1,13 +1,12 @@
 # Discord Update Script for debian based distros 
-An easy to run script that downloads and then installs discord onto a Debian based system.
-
+An easy to run script that downloads and then install discord onto a Debian based system. This script is meant to automate the installation process
 # Tested on
 kubuntu 21.04
 
 # How to use
-0) Download the script from releases
-1) Make the file executable 
-2) Run the script 
+1) Download the script from releases
+2) Make the script file executable `chmod +x DiscordUpdate.sh`
+3) Run the script `./DiscordUpdate.sh`
 
 # Dependencies
 wget -> Downloading .deb package<br>
