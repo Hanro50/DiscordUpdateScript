@@ -10,8 +10,11 @@ kubuntu 21.04
 2) Run the script 
 
 # Dependencies
-wget
-pkexec
+wget -> Downloading .deb package
+pkexec -> Needed to gain root
+apt -> Needed to install the .deb package 
+
+#### All these help with gui generation 
 zenity
 sed
 grep
