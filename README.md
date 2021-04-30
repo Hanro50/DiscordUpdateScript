@@ -14,7 +14,7 @@ wget -> Downloading .deb package<br>
 pkexec -> Needed to gain root<br>
 apt -> Needed to install the .deb package <br>
 
-#### All these help with gui generation and are probably already installed
+###### All these help with gui generation and are probably already installed
 zenity<br>
 sed<br>
 grep<br>
