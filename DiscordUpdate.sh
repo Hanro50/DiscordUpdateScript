@@ -11,7 +11,7 @@ download()
 installDeb(){
 
 (
-script -c 'pkexec --user root apt install /tmp/discord-installer.deb -y;' -m classic -e /dev/null ; \
+script -c 'pkexec --user root apt install /tmp/discord-installer.deb -y;' -e /dev/null ; \
 echo ""; \
 echo "Done installing!";\
 echo "You can close this window now!"; \
